@@ -1,5 +1,5 @@
 package Lecture4;
-
+// how to cast diffrent data types
 public class CastTest {
     public static void main(String[] args) {
         int x1 = 17;

@@ -1,4 +1,4 @@
-package Lecture.Lecture4;
+package Lecture4;
 
 public class CastTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lecture.Lecture4;
+package Lecture4;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class Execise1 {
             Double item = input.nextDouble();
             booksPlaced +=1;
             lengthLeft -= item;
-           // if (Math.abs(lengthLeft-item)<TOLERANCE)
+           
         }
         System.out.println("Books placed: "+ booksPlaced); 
         System.out.println("Length left: "+ lengthLeft); 

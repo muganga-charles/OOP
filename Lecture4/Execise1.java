@@ -1,7 +1,7 @@
 package Lecture4;
 
 import java.util.Scanner;
-// a program to calculate
+// a program to calculate the space that is left after filling in some items
 public class Execise1 {
     public static void main(String[] args) {
         double lengthLeft = 1.0;

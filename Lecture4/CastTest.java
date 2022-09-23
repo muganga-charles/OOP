@@ -5,8 +5,7 @@ public class CastTest {
         int x1 = 17;
         int x2 = 20;
         int x3 = 12;
-        //int 2x = 34;
-
+       
         int average  = (x1+x2+x3)/3;
         System.out.println(average);
         float big1 = 987653210f;
@@ -14,7 +13,7 @@ public class CastTest {
         //int x4 = big;
         int x5 = (int) big;
         System.out.println(x5);
-        //
+        
         float x4 = (long) big1;
         System.out.println(x4);
      }

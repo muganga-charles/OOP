@@ -1,4 +1,4 @@
-package Lecture.Lecture5;
+package Lecture5;
 public class InverseTest {
     public static void main(String[] args) {
         double xStart = 0.0;

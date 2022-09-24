@@ -10,7 +10,7 @@ public class CastTest {
         System.out.println(average);
         float big1 = 987653210f;
         long big = 987653210;
-        //int x4 = big;
+        int x4 = big;
         int x5 = (int) big;
         System.out.println(x5);
         

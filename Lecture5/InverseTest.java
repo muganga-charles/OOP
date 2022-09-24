@@ -6,7 +6,6 @@ public class InverseTest {
         double deltax = 0.1;
         final double TOLERANCE = 1E-14;
         for(double x = xStart; x < xEnd;x += deltax ){
-            
             double calc =1/(xEnd-x );
             System.out.println(calc);
         }

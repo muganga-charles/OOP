@@ -11,8 +11,7 @@ public class Execise1 {
             System.out.println("Enter the item");
             Double item = input.nextDouble();
             booksPlaced +=1;
-            lengthLeft -= item;
-           
+            lengthLeft -= item; 
         }
         System.out.println("Books placed: "+ booksPlaced); 
         System.out.println("Length left: "+ lengthLeft); 

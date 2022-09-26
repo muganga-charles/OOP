@@ -11,7 +11,7 @@ public class AvgTest {
         double x1 = input.nextDouble();
         System.out.println("Enter number 2");// allows a user to enter second number
         double x2 = input.nextDouble();
-        System.out.println("Enter number 3");
+        System.out.println("Enter number 3");// allows a user to enter third number
         double x3 = input.nextDouble();
         System.out.println("The numbers are :" + x1+ " " + x2+ " " + x3 );
         System.out.println("The average is : "+ Average3(x1, x2, x3));

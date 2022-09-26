@@ -1,4 +1,4 @@
-package LeLecture6;
+package Lecture6;
 
 public class ScopeTest0 {
     public static void main(String[] args) { 

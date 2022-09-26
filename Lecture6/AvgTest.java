@@ -7,7 +7,7 @@ import day.mathClass;
 public class AvgTest {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter number 1");
+        System.out.println("Enter number 1");// allows a user to enter first number
         double x1 = input.nextDouble();
         System.out.println("Enter number 2");
         double x2 = input.nextDouble();

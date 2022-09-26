@@ -9,7 +9,7 @@ public class AvgTest {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter number 1");// allows a user to enter first number
         double x1 = input.nextDouble();
-        System.out.println("Enter number 2");
+        System.out.println("Enter number 2");// allows a user to enter second number
         double x2 = input.nextDouble();
         System.out.println("Enter number 3");
         double x3 = input.nextDouble();

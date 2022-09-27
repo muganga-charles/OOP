@@ -1,5 +1,4 @@
 package day;
-
 import java.text.DecimalFormat;
 
 public class mathClass {

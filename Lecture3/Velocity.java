@@ -14,7 +14,6 @@ public class Velocity {
         System.out.println(velocity>60 && distance<225);
         System.out.println(velocity>70 || distance<175 || time <= 3);
 
-
     }
     
 }

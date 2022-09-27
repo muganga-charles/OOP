@@ -1,5 +1,4 @@
 package Lecture3;
-
 import java.text.DecimalFormat;
 public class ControlTest {
     public static void main(String[] args) {

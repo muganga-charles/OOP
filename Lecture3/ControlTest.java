@@ -11,7 +11,6 @@ public class ControlTest {
         double b = 0.2;
         DecimalFormat df = new DecimalFormat("0.00");// specifies the number of decimal places
         
-
         if (demand > suply){
             Double increase = price + a*(demand-suply);//raises the price 
             System.out.println("the current price :"+ df.format(increase));

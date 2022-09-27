@@ -1,4 +1,4 @@
-package Lecture.Lecture3;
+package LectLecture3;
 import javax.swing.*;
 public class Velocity {
     public static void main(String[] args) {

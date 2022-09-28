@@ -8,7 +8,7 @@ public class MethodExercise {
         int age;
         double height;
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter the name");
+        System.out.println("Enter the name");//user to enter the name
         name = input.nextLine();
         System.out.println("Enter your age:");
         age = input.nextInt();

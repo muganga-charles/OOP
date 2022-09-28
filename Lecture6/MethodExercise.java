@@ -10,9 +10,9 @@ public class MethodExercise {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the name");//user to enter the name
         name = input.nextLine();
-        System.out.println("Enter your age:");
+        System.out.println("Enter your age:");// user to enter the age
         age = input.nextInt();
-        System.out.println("Enter your height:");
+        System.out.println("Enter your height:");//
         height = input.nextDouble();
         System.out.println("am I old enough "+ isOldEnough(age));
         printInfo(name, age, height);

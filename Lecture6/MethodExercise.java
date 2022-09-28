@@ -12,7 +12,7 @@ public class MethodExercise {
         name = input.nextLine();
         System.out.println("Enter your age:");// user to enter the age
         age = input.nextInt();
-        System.out.println("Enter your height:");//
+        System.out.println("Enter your height:");// user to enter the height
         height = input.nextDouble();
         System.out.println("am I old enough "+ isOldEnough(age));
         printInfo(name, age, height);

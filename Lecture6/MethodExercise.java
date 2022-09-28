@@ -17,7 +17,7 @@ public class MethodExercise {
         System.out.println("am I old enough "+ isOldEnough(age));
         printInfo(name, age, height);
     }
-    public static boolean isOldEnough(int age){//returns boolean 
+    public static boolean isOldEnough(int age){//returns boolean value to tell if the user is old enough
         if (age >= 21){
             return true;
         }

@@ -23,7 +23,7 @@ public class MethodExercise {
         }
         return false;
     }
-    public static void printInfo(String name,int age, double height){ // prints
+    public static void printInfo(String name,int age, double height){ // prints the overall details
         System.out.println("The name is "+ name);
         System.out.println("The height is "+ height);
         System.out.println("The age is "+ age);

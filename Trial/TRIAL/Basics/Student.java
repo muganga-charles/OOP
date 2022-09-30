@@ -14,7 +14,7 @@ public class Student {
         age = Age;
 
     }
-    //public voi
+    //publ
     public int getage(){
         return age;
     }

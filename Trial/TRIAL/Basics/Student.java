@@ -9,7 +9,7 @@ public class Student {
 
     public Student(String Name, String Access_Number, String Gender, int Age){//constructor
         name = Name;
-        AccessNumber =Access_Number;
+        AccessNumber = Access_Number;
         gender = Gender;
         age = Age;
     }

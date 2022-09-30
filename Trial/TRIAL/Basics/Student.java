@@ -14,7 +14,7 @@ public class Student {
         age = Age;
 
     }
-    //oth
+    //other methods
     public int getage(){
         return age;
     }

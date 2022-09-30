@@ -12,7 +12,6 @@ public class Student {
         AccessNumber =Access_Number;
         gender = Gender;
         age = Age;
-
     }
     //other methods
     public int getage(){

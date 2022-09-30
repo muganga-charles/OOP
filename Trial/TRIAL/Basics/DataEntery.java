@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class DataEntery {
     public static void main(String[] args) {
         Scanner input =  new Scanner(System.in);
-        System.out.println("Enter the name: ");// allows a user
+        System.out.println("Enter the name: ");// allows a user to enter the name
         String name = input.nextLine();
 
         System.out.println("Enter the AccessNo: ");

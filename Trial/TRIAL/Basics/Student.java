@@ -14,7 +14,7 @@ public class Student {
         age = Age;
 
     }
-    //public void setDetails()
+    //public voi
     public int getage(){
         return age;
     }

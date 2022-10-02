@@ -39,8 +39,8 @@ public class Tank {
     public void setRadius (double rad){
         radius  = rad;
     }
-    public void setLength (double l){
-        length = l;
+    public void setLength (double len){
+        length = len;
     }
     public void setThicknes (double thick){
         thickness  = thick;

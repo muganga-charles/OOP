@@ -1,4 +1,4 @@
-package Lecture.Lecture7;
+package LecLecture7;
 
 public class TankTest {
     public static void main(String[] args) { 

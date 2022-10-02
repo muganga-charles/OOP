@@ -1,4 +1,4 @@
-package LecLecture7;
+package Lecture7;
 
 public class TankTest {
     public static void main(String[] args) { 

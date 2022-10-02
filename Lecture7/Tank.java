@@ -1,4 +1,4 @@
-package Lecture.Lecture7;
+package LecLecture7;
 
 public class Tank {
     private double radius; 

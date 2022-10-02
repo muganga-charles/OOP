@@ -42,7 +42,7 @@ public class Tank {
     public void setLength (double l){
         length = l;
     }
-    public void setThicknes (double t){
-        thickness  = t;
+    public void setThicknes (double thick){
+        thickness  = thick;
     }
 }

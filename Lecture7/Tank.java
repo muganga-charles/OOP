@@ -34,7 +34,7 @@ public class Tank {
     // weld = 8π(R+t/2)
     public double weld (){
         return 8*Math.PI*(radius+(thickness/2));
-        //Ttm
+       
     }
     public void setRadius (double rad){
         radius  = rad;

@@ -7,8 +7,8 @@ public class Tank {
     
     
     // Constructor or existence method—public (no return type ever) 
-    public Tank(double r, double len, double t) { 
-        radius = r; 
+    public Tank(double rad, double len, double t) { 
+        radius = rad; 
         length = len; 
         thickness = t; 
     } 

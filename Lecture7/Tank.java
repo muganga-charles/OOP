@@ -10,7 +10,7 @@ public class Tank {
     public Tank(double rad, double len, double thick) { 
         radius = rad; 
         length = len; 
-        thickness = t; 
+        thickness = thick; 
     } 
     // Cylinder wall mass= Lπ((R+t)2 – R2) 
     public double getMassCylinderWalls() { 

@@ -36,8 +36,8 @@ public class Tank {
         return 8*Math.PI*(radius+(thickness/2));
         //Ttm
     }
-    public void setRadius (double r){
-        radius  = r;
+    public void setRadius (double rad){
+        radius  = rad;
     }
     public void setLength (double l){
         length = l;

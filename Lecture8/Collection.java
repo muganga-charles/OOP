@@ -12,6 +12,6 @@ public class Collection {
         Lecture7.Tank tank1 = new Tank(radius, height, thickness);
         System.out.println(y);
         System.out.println("The mass is : " + df.format(tank1.getMass()));
-        
+    
     }
 }

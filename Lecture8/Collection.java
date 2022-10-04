@@ -1,4 +1,4 @@
-package LectLecture8;
+package Lecture8;
 import java.text.DecimalFormat;
 
 import Lecture.Lecture7.*;

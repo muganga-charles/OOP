@@ -9,7 +9,7 @@ public class Collection {
         double height = 94.3;
         float y =20f;
         DecimalFormat df = new DecimalFormat("0.00");
-        Lecture.Lecture7.Tank tank1 = new Tank(radius, height, thickness);
+        Lect.Lecture7.Tank tank1 = new Tank(radius, height, thickness);
         System.out.println(y);
         System.out.println("The mass is : " + df.format(tank1.getMass()));
     }

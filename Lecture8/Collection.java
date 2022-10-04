@@ -13,6 +13,5 @@ public class Collection {
         System.out.println(y);
         System.out.println("The mass is : " + df.format(tank1.getMass()));
         
-        
     }
 }

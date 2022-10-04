@@ -1,7 +1,7 @@
 package Lecture8;
 import java.text.DecimalFormat;
 
-import Lecture.Lecture7.*;
+import Lecture7.*;
 public class Collection {
     public static void main(String[] args) {
         double radius = 12.00;

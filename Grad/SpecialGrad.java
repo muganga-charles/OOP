@@ -11,6 +11,7 @@ public class SpecialGrad extends Student {
     public double getPay(){
         return specStipend;
     }
+    
     public void printData(){
         super.printData();
         System.out.println( specStipend);

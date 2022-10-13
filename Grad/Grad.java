@@ -10,6 +10,7 @@ public class Grad extends Student {
     public double getPay (){
         return gradSalary;
     }
+    
     public void printData (){
         super.printData();
         System.out.println("Monthly pay :" + getPay()*30);

@@ -1,4 +1,5 @@
 package Grad;
+
 public class Grad extends Student {
     private double gradSalary; 
     Grad (String firstName, String lastName, double GradSalary){

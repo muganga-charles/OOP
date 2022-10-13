@@ -6,6 +6,7 @@ public class Grad extends Student {
         super(firstName, lastName);
         gradSalary = GradSalary;
     }
+    
     public double getPay (){
         return gradSalary;
     }

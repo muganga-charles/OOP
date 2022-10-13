@@ -6,8 +6,8 @@ public class SpecialGrad extends Student {
     SpecialGrad (String firstName , String lastName, double SpectStipend){
         super(firstName, lastName);
         specStipend = SpectStipend;
-
     }
+    
     public double getPay(){
         return specStipend;
     }

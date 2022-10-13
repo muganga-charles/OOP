@@ -14,6 +14,7 @@ public class SpecialGrad extends Student {
     public void printData(){
         super.printData();
         System.out.println( specStipend);
+        
     }
     
 }

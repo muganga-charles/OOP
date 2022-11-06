@@ -1,1 +1,1 @@
-This package is all about categorising the diffrent
+This package is all about categorising t

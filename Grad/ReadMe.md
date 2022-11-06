@@ -1,1 +1,1 @@
-This package is all about
+This package is al

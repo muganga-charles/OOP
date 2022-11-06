@@ -1,1 +1,1 @@
-This package is all about cate
+This package is all about

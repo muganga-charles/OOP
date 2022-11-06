@@ -1,1 +1,1 @@
-This package is all about categorising t
+This package is all about cate

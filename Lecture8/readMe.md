@@ -1,2 +1,2 @@
 # Lecture 8
-This consists of two files.
+This consists of one file.

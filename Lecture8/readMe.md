@@ -1,3 +1,3 @@
 # Lecture 8
-This consists of one class.
+This consists of one class;
 ### collections.java
